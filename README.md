@@ -172,12 +172,12 @@ delete adam.yas;
 ```
 
 ### **Oybektlərin Datatype-ləri**
-The object data type can contain:
+Obyektlərin daxilində bu tiplərdə məlumat saxlanıla bilər:
 
 ```md
-1. An object
-2. An array
-3. A date
+1. Obyekt
+2. Massiv
+3. Date klassı
 ```
 
 ## __Array__
