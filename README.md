@@ -4,7 +4,7 @@
 
 - 1. String - Sətir
 - 2. Number - Rəqəm
-- 3. Bigint - Böyük rəqəm
+- 3. BigInt - Böyük rəqəm
 - 4. Boolean - Bulean
 - 5. Undefined - Dəyəri naməlum
 - 6. Null - Dəyərsiz
